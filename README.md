@@ -23,7 +23,7 @@ We generate SSH observations by interpolating the eNATL60 model onto real satell
 The SSH reconstructions are assessed over the period from 2020-09-01 to 2010-06-30. We suggest using the first month for testing, the second data for validation and the remaining 7 months for training. We also use a subset of the North Atlantic near the GulfStream for computational reasons (If there is demand we can potentially increase the size of the domain).
  
 ## Quick start
-You can follow the quickstart guide in [this notebook](https://github.com/ocean-data-challenges/2020a_SSH_mapping_NATL60/blob/master/quickstart.ipynb).
+You can follow the quickstart guide in [this notebook](https://github.com/HJakeCunningham/NOC-DSG/blob/main/quickstart.ipynb).
 
 
 ## Acknowledgement

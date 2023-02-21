@@ -11,7 +11,7 @@ We propose 2 potential challenges:
 
 2. **Eddy Identification** - How can we effectively detect eddies given a SSH map using machine learning?
 
-For more details please see the [challenge long description].
+For more details please see the [challenge long description](https://github.com/HJakeCunningham/NOC-DSG/blob/main/Figures/NOC%20-%20Long%20Description.pdf).
 
 ## Model Data
 Given a lack of a high resolution ground truth, in order to evaluate the quality of SSH mapping and eddy identification algorithms we will use the [eNATL60 North Atlantic ocean simulation](https://github.com/ocean-next/eNATL60).
